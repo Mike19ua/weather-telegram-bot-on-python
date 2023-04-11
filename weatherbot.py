@@ -4,8 +4,8 @@ import json
 from telebot import types
 
 
-bot = telebot.TeleBot('5542197401:AAGNNbZo-ailTIryU-CHTKg6ArJoBhoqZ6Y')
-API = '2f8794fe868369dd7898f260ce74f014'
+bot = telebot.TeleBot('************************************') #Add your API token from telegram bot
+API = '********************************' # Add your API token from open weather
 
 bot.delete_webhook()  # видалення веб-хуку
 
